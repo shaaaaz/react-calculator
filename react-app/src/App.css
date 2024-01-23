@@ -1,0 +1,40 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+
+button{
+  width: 90px;
+  height: 90px;
+  margin: 10px;
+  font-size: 20px;
+  border-radius: 0;
+}
+
+.num{
+  background-color: orange;
+}
+
+body{
+  background-color: white;
+}
+
+h1{
+  color: black;
+  font-weight: 900;
+}
+
+.ac{
+  width: 200px;
+}
